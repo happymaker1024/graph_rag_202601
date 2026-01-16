@@ -18,17 +18,17 @@ pip install pandas
 ## 실습1
 - 파일 : 1.neo4j_movie_graphdb구축_csv.ipynb
 ### 내용
-
+- 
 
 ## 실습2
 - 파일 : 2.neo4j_movie_basic_search.ipynb
 ### 내용
-
+- 
 
 ## 실습3
 - 파일 : 3.neo4j_movie_full-text_search.ipynb
 ### 내용
-
+- 
 
 ## 실습4
 - 파일 : 4.neo4j_movie_vector_search.ipynb
