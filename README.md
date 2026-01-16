@@ -121,5 +121,6 @@ from langchain_neo4j import GraphCypherQAChain
     - 찾아낸 노드를 기점으로 관계(:ACTED_IN)를 따라가며 인간의 기억 모델처럼 정보를 확장함.
 - Context Enrichment (문맥 풍부화)
     - 단순 검색 결과뿐만 아니라 관련 배우의 필모그래피까지 포함하여 LLM에게 풍부한 '배경지식'을 제공함.
+- 데이터 파이프라인 다이어그램
 <img src="images/vector_graph_hybrid.png" alt="처리순서">
 
